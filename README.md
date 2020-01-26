@@ -14,7 +14,7 @@ To see an example, just take a look at the "MyProject" folder. Please note that 
 
 **Setup guide**
 
-From a terminal, run ```git clone https://github.com/marcogdepinto/Python_Projects_Directory_Creator.git```;
+From a terminal, run ```git clone https://github.com/marcogdepinto/Python_Projects_Directory_Creator.git```.
 
 **How to run it**
 - Open a command prompt and ```cd``` into the directory in which the file is saved;
