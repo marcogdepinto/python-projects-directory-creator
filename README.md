@@ -2,7 +2,7 @@
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
-Creating a CSV file of the jobs available at a particular URL of the Amazon.jobs website.
+Create a standard directory for a new Python project with a single click.
 
 # Why I did this?
 To stop creating projects directory by hand and to have a standard template.
