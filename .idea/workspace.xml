@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2960c456-77c3-44d6-8992-3778a807c094" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1U42jW00fBxu1iEgB7pGKczAw3c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="PythonProjectDirCreator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/makedir.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="makedir" type="PythonConfigurationType" factoryName="Python">
+      <module name="PythonProjectDirCreator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/makedir.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2960c456-77c3-44d6-8992-3778a807c094" name="Default Changelist" comment="" />
+      <created>1574601681567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574601681567</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="206" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580059799046">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="206" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.816@0.23.1440.816" timestamp="1580059799046" />
+    <state width="1379" height="198" key="GridCell.Tab.0.bottom" timestamp="1580061180129">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1379" height="198" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1580061180129" />
+    <state width="1379" height="198" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1580049427425" />
+    <state width="1379" height="198" key="GridCell.Tab.0.center" timestamp="1580061180128">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1379" height="198" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1580061180128" />
+    <state width="1379" height="198" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1580049427424" />
+    <state width="1379" height="198" key="GridCell.Tab.0.left" timestamp="1580061180128">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1379" height="198" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1580061180127" />
+    <state width="1379" height="198" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1580049427423" />
+    <state width="1379" height="198" key="GridCell.Tab.0.right" timestamp="1580061180128">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1379" height="198" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1580061180128" />
+    <state width="1379" height="198" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1580049427424" />
+  </component>
+</project>
